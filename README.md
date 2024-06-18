@@ -1,4 +1,4 @@
-# Projeto de Gestão de Funcionários - AppProthera
+# Projeto de Gestão de Funcionários
 
 Este projeto Java é uma aplicação de exemplo para gerenciamento de funcionários, utilizando as camadas de serviço, modelo e aplicação principal.
 
